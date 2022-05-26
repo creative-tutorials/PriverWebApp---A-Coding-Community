@@ -24,7 +24,7 @@ Changes are accepted and merged into the master branch once they are reviewed an
 
 <li>
 
-Owner: [@twitter](https://twitter.com/IdealQik)
+Owner: [IdealQik A.K.A Treasure](https://twitter.com/IdealQik)
 
 </li>
 
