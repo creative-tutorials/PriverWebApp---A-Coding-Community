@@ -42,12 +42,12 @@ after installing Next.js, you can start editing the page by modifying `pages/ind
 
 We publish updates on [Github](https://github.com/)
 
-We'll send updates to the [community](https://twitter.com/IdealQik) When we publish a new version of Priver, we'll send an update to the community.
+We'll send updates to the [community](https://twitter.com/privercommunity) When we publish a new version of Priver, we'll send an update to the community.
 
 # Feedback
 
 We welcome your feedback and suggestions.
-Also feel free to join our Discord server [here](https://discord.gg/YWQWXyf)
+Also feel free to join our Discord server [here](https://discord.gg/u3ZrByawG9)
 In our Discord server you can ask questions, discuss features, and get help.
 
 # Security
