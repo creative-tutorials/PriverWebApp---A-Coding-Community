@@ -33,7 +33,7 @@ Owner: [IdealQik A.K.A Treasure](https://twitter.com/IdealQik)
 To get started, you need to install Next.js
 
 ```bash
-npm install next
+npx create-next-app@latest
 ```
 
 after installing Next.js, you can start editing the page by modifying `pages/index.js`.
